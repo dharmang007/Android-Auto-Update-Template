@@ -1,1 +1,1 @@
-{"_default": {"1": {"version": "1.0", "location": ""}, "2": {"version": "2.0", "location": ""}}}
+{"_default": {"1": {"app_name": "Application2", "version": "newversion", "location": "", "os": "os_1"}, "2": {"app_name": "Application1", "version": "newversion", "location": "", "os": "os_1"}, "3": {"app_name": "Application3", "version": "newversion", "location": "", "os": "os_1"}, "4": {"app_name": "Application1", "version": "2.0", "location": "", "os": "os_1"}, "5": {"app_name": "Application1", "version": "2.0", "location": "", "os": "os_1"}}}
